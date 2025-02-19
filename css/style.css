@@ -90,3 +90,28 @@ body {
 .container.active #qr-code {
     opacity: 1;
 }
+
+
+@media screen and (max-width:700px) {
+    .container {
+        padding: 12px;
+        width: 320px;
+    }
+}
+
+
+@media screen and (max-width:1600px) {
+    .container {
+        padding: 12px;
+        width: 320px;
+    }
+
+    .container.active {
+        height: 450px; 
+    }
+
+    #qr-code {
+        padding: 15px 0 ;
+    }
+}
+

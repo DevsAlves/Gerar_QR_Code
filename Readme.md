@@ -16,7 +16,7 @@
 ## 📂 Como Usar
 ```bash
 # Clone este repositório
-git clone https://github.com/DevsAlves/Tabuada_JS.git
+git clone https://github.com/DevsAlves/Gerar_QR_Code.git
 
 
 # Abra o arquivo index.html no navegador

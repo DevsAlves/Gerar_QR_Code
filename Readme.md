@@ -1,7 +1,7 @@
 # Gerar_QR_Code
 > Gerador de QR Code
 
-![Imagem do projto](./img/img-project.png)
+![Imagem do projeto](./img/img-project.png)
 
 
 ## 📌 Funcionalidades
@@ -24,8 +24,8 @@ git clone https://github.com/DevsAlves/Gerar_QR_Code.git
 
 
 ## 📝 Licença
-Este projeto está sob a licença [Matheus Battisti].
-
+- Setup inicial [Matheus Battisti].
+- Imagem de fundo [Unsplash](https://unsplash.com/pt-br/fotografias/tv-de-tela-plana-preta-desligada-6Pg2ms04ouM).
 ---
 Feito com 💙 por [Guilherme Alves](https://github.com/DevsAlves) 🚀
 
